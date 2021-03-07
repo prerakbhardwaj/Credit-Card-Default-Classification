@@ -1,1 +1,2 @@
-# Credit-Card-Default-Classification
+# Credit-Card-Default-Classification using a Logistic Regression and then a Random Forest Classifier
+Also, dealt with skewness of some features using a PowerTransformer...
